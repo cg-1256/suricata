@@ -1,5 +1,10 @@
 # Suricata
 
+## Repo Specific Read Me
+This repository is a repository for my dissertation project, that is building upon the current work done on hte Suricata tool. The changes made have primarily been made during Spring 2025. 
+
+## Standard Read Me
+
 [![Fuzzing Status](https://oss-fuzz-build-logs.storage.googleapis.com/badges/suricata.svg)](https://bugs.chromium.org/p/oss-fuzz/issues/list?sort=-opened&can=1&q=proj:suricata)
 [![codecov](https://codecov.io/gh/OISF/suricata/branch/master/graph/badge.svg?token=QRyyn2BSo1)](https://codecov.io/gh/OISF/suricata)
 
