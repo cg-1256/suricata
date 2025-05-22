@@ -1,7 +1,9 @@
 # Suricata
 
 ## Repo Specific Read Me
-This repository is a repository for my dissertation project, that is building upon the current work done on hte Suricata tool. The changes made have primarily been made during Spring 2025. 
+This repository is a repository for my dissertation project, that is building upon the current work done on hte Suricata tool. The changes made have primarily been made during Spring 2025.
+
+The datasets used to train and test the ML algorithms are stored in the 'dataset' directory of this repostitory. 
 
 ## Standard Read Me
 
